@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### In this project ive used components from various reactjs libraries such as shadcn,antdeign and mui. And also if youve come across any link from fetch() saying 'testapi' you might have to change it with your own api 
 
-Currently, two official plugins are available:
+## Here i will provide some images of how the website will be 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-09-04 123802](https://github.com/user-attachments/assets/6a2a790a-892d-424b-913f-c7eb8e728b8f)
+
+![Screenshot 2024-09-04 123819](https://github.com/user-attachments/assets/6fce4ddd-a2bb-43d0-b8d0-7c32596c890b)
+
+![Screenshot 2024-09-04 123836](https://github.com/user-attachments/assets/80bb6240-bd52-490a-9cda-e51411b74832)
