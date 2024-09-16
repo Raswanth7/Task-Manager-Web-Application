@@ -1,6 +1,6 @@
 # React + Vite
 
-### In this project I've used components from various reactjs libraries such as shadcn,antdeign and mui. And also if youve come across any link from fetch() saying 'testapi' you might have to change it with your own api 
+### In this project I've used components from various reactjs libraries such as shadcn,antdesign and mui. And also if youve come across any link from fetch() saying 'testapi' you might have to change it with your own api 
 
 ## Here i will provide some images of how the website will be 
 
